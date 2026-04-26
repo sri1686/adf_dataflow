@@ -1,0 +1,15 @@
+{
+	"name": "adf16863",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3336a0d8-a969-4229-a4d0-c7ce8c47740f",
+		"tenantId": "b668d6df-f625-425d-83fd-63397982e5a5"
+	}
+}
